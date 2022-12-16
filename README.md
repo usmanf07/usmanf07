@@ -22,7 +22,7 @@ I’m Usman Faisal, an Undergradute Software Engineer to be who is a dedicated a
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)&nbsp;&nbsp;
 [![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](#)&nbsp;&nbsp;
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;
-[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=f89820)](#)&nbsp;&nbsp;
+[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)](#)&nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
 [![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=mssql)](#)&nbsp;&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
