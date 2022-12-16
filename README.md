@@ -24,9 +24,9 @@ I’m Usman Faisal, an Undergradute Software Engineer to be who is a dedicated a
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;&nbsp;
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=f89820)](#)&nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
-[![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=rust)](#)&nbsp;&nbsp;
+[![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=mssql)](#)&nbsp;&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
-[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=rust)](#)&nbsp;&nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](#)&nbsp;&nbsp;
 
 ## :mailbox: <strong> Contacts </strong>
 
