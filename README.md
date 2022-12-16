@@ -26,7 +26,6 @@ I’m Usman Faisal, an Undergradute Software Engineer to be who is a dedicated a
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
 [![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=rust)](#)&nbsp;&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
-[![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)](#)&nbsp;&nbsp;
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=rust)](#)&nbsp;&nbsp;
 
 ## :mailbox: <strong> Contacts </strong>
