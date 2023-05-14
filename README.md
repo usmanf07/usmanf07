@@ -15,9 +15,12 @@ I’m Usman Faisal, an Undergradute Software Engineer to be who is a dedicated a
 <!-- TODO: Make technologies links takes you to repositories 
 <a href="https://i.postimg.cc/Gm71y6yL/35bdwf.jpg"></a>-->
 
+[![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)](#)&nbsp;&nbsp;
+[![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs)](#)&nbsp;&nbsp;
+[![Expressjs](https://img.shields.io/badge/-expressjs-05122A?style=flat&logo=expressjs)](#)&nbsp;&nbsp;
+[![Reactjs](https://img.shields.io/badge/-reactjs-05122A?style=flat&logo=reactjs)](#)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)](#)&nbsp;&nbsp;
-[![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)](#)&nbsp;&nbsp;
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)&nbsp;&nbsp;
 [![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](#)&nbsp;&nbsp;
@@ -27,6 +30,8 @@ I’m Usman Faisal, an Undergradute Software Engineer to be who is a dedicated a
 [![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=mssql)](#)&nbsp;&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](#)&nbsp;&nbsp;
+
+
 
 ## :mailbox: <strong> Contacts </strong>
 
