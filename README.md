@@ -15,10 +15,10 @@ I’m Usman Faisal, an Undergradute Software Engineer to be who is a dedicated a
 <!-- TODO: Make technologies links takes you to repositories 
 <a href="https://i.postimg.cc/Gm71y6yL/35bdwf.jpg"></a>-->
 
-[![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)](#)&nbsp;&nbsp;
-[![Nodejs](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodejs)](#)&nbsp;&nbsp;
-[![Expressjs](https://img.shields.io/badge/-express-05122A?style=flat&logo=expressjs)](#)&nbsp;&nbsp;
-[![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](#)&nbsp;&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)&nbsp;&nbsp;
+[![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)&nbsp;&nbsp;
+[![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)&nbsp;&nbsp;
+[![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)](#)&nbsp;&nbsp;
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
