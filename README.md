@@ -18,7 +18,7 @@ I’m Usman Faisal, an Undergradute Software Engineer to be who is a dedicated a
 [![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)](#)&nbsp;&nbsp;
 [![Nodejs](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodejs)](#)&nbsp;&nbsp;
 [![Expressjs](https://img.shields.io/badge/-express-05122A?style=flat&logo=expressjs)](#)&nbsp;&nbsp;
-[![Reactjs](https://img.shields.io/badge/-react-05122A?style=flat&logo=reactjs)](#)&nbsp;&nbsp;
+[![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](#)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)](#)&nbsp;&nbsp;
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
