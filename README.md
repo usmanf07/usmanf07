@@ -20,6 +20,9 @@ I’m Usman Faisal, an Undergradute Software Engineer to be who is a dedicated a
 [![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)&nbsp;&nbsp;
 [![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
+[![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)](#)&nbsp;&nbsp;
+[![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)](#)&nbsp;&nbsp;
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)](#)&nbsp;&nbsp;
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)&nbsp;&nbsp;
@@ -28,7 +31,6 @@ I’m Usman Faisal, an Undergradute Software Engineer to be who is a dedicated a
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)](#)&nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
 [![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=mssql)](#)&nbsp;&nbsp;
-[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](#)&nbsp;&nbsp;
 
 
