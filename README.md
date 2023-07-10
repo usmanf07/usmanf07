@@ -15,10 +15,10 @@ I’m Usman Faisal, an Undergradute Software Engineer to be who is a dedicated a
 <!-- TODO: Make technologies links takes you to repositories 
 <a href="https://i.postimg.cc/Gm71y6yL/35bdwf.jpg"></a>-->
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)&nbsp;&nbsp;
-[![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)&nbsp;&nbsp;
-[![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)&nbsp;&nbsp;
-[![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)&nbsp;&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=white)](#)&nbsp;&nbsp;
+[![Nodejs](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)](#)&nbsp;&nbsp;
+[![Expressjs](https://img.shields.io/badge/Express.js-05122A?style=for-the-badge)](#)&nbsp;&nbsp;
+[![Reactjs](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;
 [![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)](#)&nbsp;&nbsp;
