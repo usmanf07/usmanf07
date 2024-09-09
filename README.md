@@ -4,8 +4,8 @@ I’m Usman Faisal, Software Engineer from FAST to be who is a dedicated and an 
 
 - 💻Working @Folio3 as Software Engineer in Dynamics Team
 - 🎓Bachelor of Software Engineering from FAST National University
-- 💬Always Looking for Unique & Creative Ideas for Semester Projects
-- 👾Favourite Coding Language till now: Java
+- 💬Always Looking for Unique & Creative Ideas for Projects
+- 👾Favourite Coding Language till now: Python
 - 💻Likes Graphic Designing as a free time activity <a href="https://www.instagram.com/usmancreativex/">PortFolio</a>
 - 🎮A Professional FPS Player
 - ⚽Likes Football in Sports
