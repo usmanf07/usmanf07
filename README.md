@@ -1,8 +1,9 @@
 # <strong>Hi </strong><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi">
 
-I’m Usman Faisal, an Undergradute Software Engineer to be who is a dedicated and an effective team player seeking to further establish his proven skills in software engineering principles and programming platforms.
+I’m Usman Faisal, Software Engineer from FAST to be who is a dedicated and an effective team player seeking to further establish his proven skills in software engineering principles and programming platforms.
 
-- 🎓Currently Enrolled in Bachelor of Software Engineering at FAST National University
+- 💻Working @Folio3 as Software Engineer in Dynamics Team
+- 🎓Bachelor of Software Engineering from FAST National University
 - 💬Always Looking for Unique & Creative Ideas for Semester Projects
 - 👾Favourite Coding Language till now: Java
 - 💻Likes Graphic Designing as a free time activity <a href="https://www.instagram.com/usmancreativex/">PortFolio</a>
